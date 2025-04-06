@@ -12,7 +12,7 @@
 - Speed-cycling (avg. 25–30 kmph), brake repairs, & bike mods
 
 🎯 I made myself a custom portfolio!  
-🌐 [View my Portfolio]([https://techguy47.github.io/portfolio/](https://techguy47.github.io/My-Portfolio/))  
+🌐 [View my Portfolio]([https://techguy47.github.io/portfolio/])  
 
 🛠 Check out my GitHub projects, especially the [Facial Recognition Demo](link-to-repo)  
 📬 Wanna connect? Open an issue or DM me somewhere cool 😎

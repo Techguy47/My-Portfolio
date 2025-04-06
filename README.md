@@ -1,4 +1,3 @@
-#  https://techguy47.github.io/My-Portfolio/
 # 👋 Hi, I’m TechGuy_47
 
 > Abhinav Gautham — A tech enthusiast, tinkerer, coder, biker, and all-round builder.
